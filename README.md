@@ -7,7 +7,6 @@ HeartBox is an innovative project aimed at developing a portable ECG machine int
 - `hardware/`: Design and schematics of the portable ECG machine.
 - `data/`: Contains the dataset(s) used for training and testing the ML models.
 - `notebooks/`: Jupyter notebooks documenting the model development and evaluation process.
-- 
 ## Features
 - **Portable ECG Machine**: Compact, easy-to-use device for capturing ECG signals.
 - **Real-time Classification**: On-device machine learning models for immediate heart health assessment.
